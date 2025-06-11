@@ -73,6 +73,7 @@ Build a YOLOv5-based system that detects **crops** and **weeds**, and simulates 
 | ![orig](runs/sample1.jpg) | ![pred](runs/detect/exp/sample1.jpg) |
 
 ---
+**Detection folder- it is consisting of nearly 150 images of sample output only that much is uploded because of the huge data of output**
 
 ## 📁 Folder Structure
 
