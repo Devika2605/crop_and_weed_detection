@@ -79,11 +79,19 @@ Build a YOLOv5-based system that detects **crops** and **weeds**, and simulates 
 
 
 ├── yolov5/ # YOLOv5 repo
+
 │ ├── dataset/ # Custom dataset
+
 │ │ ├── images/
+
 │ │ └── labels/
+
 │ ├── runs/detect/exp/ # YOLO predictions
+
 ├── spray_animation.gif # Spray demo
+
 ├── summary_crop_weed.csv # Class counts per image
+
 ├── crop_weed.yaml # Dataset config
+
 └── crop_weed_detect.ipynb # Colab notebook
