@@ -70,7 +70,8 @@ Build a YOLOv5-based system that detects **crops** and **weeds**, and simulates 
 
 | Original Image | Prediction with Spray |
 |----------------|------------------------|
-| ![orig](runs/sample1.jpg) | ![pred](runs/detect/exp/sample1.jpg) |
+| ![orig](runs/sample1.jpg) | ![pred](![image](https://github.com/user-attachments/assets/a29c7fa0-4de9-4be9-8f86-7cb71f670871)
+) |
 
 ---
 **Detection folder- it is consisting of nearly 150 images of sample output only that much is uploded because of the huge data of output**
